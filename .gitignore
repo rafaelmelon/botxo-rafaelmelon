@@ -46,7 +46,6 @@ typings/
 .cache
 
 # build output
-dist
 server
 
 # tests
